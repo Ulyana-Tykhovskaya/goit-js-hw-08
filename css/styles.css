@@ -34,3 +34,6 @@ body {
   object-fit: cover;
   gap: 24px;
 }
+.basicLightbox {
+  background-color: rgba(46, 47, 66, 0.8);
+}
